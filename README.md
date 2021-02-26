@@ -8,9 +8,11 @@ Aqui dejo también una pregunta por si alguien tiene interes en flutter y sabe c
 
 Aqui dejo como se ven las pantallas que he utilizado.
 Una imagen de la biblioteca de libros
-![alt text](https://github.com/FranciscoCesarGanso/MHWEncyclopedia/blob/main/screenshots/Initial.png)
+
+![Screenshot](https://github.com/FranciscoCesarGanso/MHWEncyclopedia/blob/main/screenshots/Initial.png)
 
 Una imagen más en detalle de la info de los monstruos
-![alt text](https://github.com/FranciscoCesarGanso/MHWEncyclopedia/blob/main/screenshots/detail.png)
+
+![Screenshot](https://github.com/FranciscoCesarGanso/MHWEncyclopedia/blob/main/screenshots/detail.png)
 
 
