@@ -1,6 +1,8 @@
 # mhencicopledia
 
-La enciclopedia de monstruos de mhw
+La enciclopedia de monstruos de mhw también incluye algunos de los monstruos de iceborne.
+Utilizo la api de https://docs.mhw-db.com/ para obtener la mayoria de los datos.
+Utilizo las imagenes de la wiki de mhw 
 
 ## Info
 Tiene cosas interesantes que se puede reutilizar en diferentes proyectos como los widgets o los helpers.
