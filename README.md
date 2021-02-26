@@ -1,16 +1,16 @@
 # mhencicopledia
 
-A new Flutter project.
+La enciclopedia de monstruos de mhw
 
-## Getting Started
+## Info
+Tiene cosas interesantes que se puede reutilizar en diferentes proyectos como los widgets o los helpers.
+Aqui dejo también una pregunta por si alguien tiene interes en flutter y sabe como va(linea 9 si no te interesa). Cuando se cargan las Network imagenes hay diferentes formas de hacerlo, el típico network image o cachedimage, sin embargo por mucho que use los diferentes mecanismos que dan estos widget en caso de que salte un 404 ya que la url no existe siguen saltando como excepciones no controladas. Al menos esto pasa en Visual studio code, he leido que puede ser un problema del Dart VM que utiliza visual studio, ya que posteriomente si hace la rutina que le pongas en el campo de error.
 
-This project is a starting point for a Flutter application.
+Aqui dejo como se ven las pantallas que he utilizado.
+Una imagen de la biblioteca de libros
+![alt text](https://github.com/FranciscoCesarGanso/MHWEncyclopedia/blob/main/screenshots/Initial.png)
 
-A few resources to get you started if this is your first Flutter project:
+Una imagen más en detalle de la info de los monstruos
+![alt text](https://github.com/FranciscoCesarGanso/MHWEncyclopedia/blob/main/screenshots/detail.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
